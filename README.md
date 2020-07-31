@@ -6,6 +6,8 @@ Coding backend in C and front-end in HTML/Javascript is the true meaning of life
 
 # Who?
 
+Nicolas Mora
+
 My GPG key: 8405B02FCC28EF9744C8F253FE82139440BD22B9
 
 |![avatar](https://github.com/babelouest/babelouest/raw/master/avatar.jpeg) | I don't look like this |
