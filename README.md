@@ -10,7 +10,7 @@ Nicolas Mora
 
 My GPG key: 8405B02FCC28EF9744C8F253FE82139440BD22B9
 
-|![avatar](https://github.com/babelouest/babelouest/raw/master/avatar.jpeg) | I don't look like this |
+|![avatar](https://github.com/babelouest/babelouest/raw/master/avatar.jpeg) | I don't look like that |
 |---|---|
 
 # Where?
@@ -19,7 +19,7 @@ Québec City, Canada
 
 # How?
 
-![geany](https://www.geany.org/static/img/geany.svg) [Geany](https://www.geany.org/)
+![[Geany](https://www.geany.org/)](https://www.geany.org/static/img/geany.svg) 
 
 # What?
 
