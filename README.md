@@ -30,7 +30,7 @@ Coding backend in C and front-end in HTML/Javascript is the true meaning of life
 
 Nicolas Mora
 
-My GPG key: 8405 B02F CC28 EF97 44C8 F253 FE82 1394 40BD 22B9
+My GPG key: **8405 B02F CC28 EF97 44C8 F253 FE82 1394 40BD 22B9**
 
 |![avatar](https://github.com/babelouest/babelouest/raw/master/avatar.jpeg) | I don't look like that |
 |---|---|
