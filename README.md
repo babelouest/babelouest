@@ -41,4 +41,4 @@ My GPG key: 8405B02FCC28EF9744C8F253FE82139440BD22B9
 
 # How?
 
-**([![Debian](debian.png)](https://www.debian.org/) || [![Ubuntu](ubuntu.jpg)](https://ubuntu.com/)) && [![GNU](gnu.png)](https://www.gnu.org/) && [![Geany](geany.svg)](https://www.geany.org/)**
+**([![Debian](https://github.com/babelouest/babelouest/raw/master/debian.png)](https://www.debian.org/) || [![Ubuntu](https://github.com/babelouest/babelouest/raw/master/ubuntu.jpg)](https://ubuntu.com/)) && [![GNU](https://github.com/babelouest/babelouest/raw/master/gnu.png)](https://www.gnu.org/) && [![Geany](https://github.com/babelouest/babelouest/raw/master/geany.svg)](https://www.geany.org/)**
