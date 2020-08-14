@@ -41,4 +41,4 @@ My GPG key: 8405B02FCC28EF9744C8F253FE82139440BD22B9
 
 # How?
 
-[![Geany](https://www.geany.org/static/img/geany.svg)](https://www.geany.org/)
+**([![Debian](debian.png)](https://www.debian.org/) || [![Ubuntu](ubuntu.jpg)](https://ubuntu.com/)) && [![GNU](gnu.png)](https://www.gnu.org/) && [![Geany](geany.svg)](https://www.geany.org/)**
