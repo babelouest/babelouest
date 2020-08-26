@@ -12,6 +12,8 @@
 | **[Taliesin](https://github.com/babelouest/taliesin)** | Lightweight audio streaming server | ![GitHub](https://img.shields.io/github/license/babelouest/taliesin?style=plastic) | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/babelouest/taliesin?style=plastic)](https://github.com/babelouest/taliesin/releases/latest) |
 | **[Angharad](https://github.com/babelouest/angharad)** | House automation system with a REST/Json interface | ![GitHub](https://img.shields.io/github/license/babelouest/angharad?style=plastic) | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/babelouest/angharad?style=plastic)](https://github.com/babelouest/angharad/releases/latest) |
 | **[Hutch](https://github.com/babelouest/hutch)** | Online password and secret locker | ![GitHub](https://img.shields.io/github/license/babelouest/hutch?style=plastic) | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/babelouest/hutch?style=plastic)](https://github.com/babelouest/hutch/releases/latest) |
+| **[Yder](https://github.com/babelouest/yder)** | Logging library for C applications | ![GitHub](https://img.shields.io/github/license/babelouest/yder?style=plastic) | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/babelouest/yder?style=plastic)](https://github.com/babelouest/yder/releases/latest) |
+| **[Orcania](https://github.com/babelouest/orcania)** | Potluck library | ![GitHub](https://img.shields.io/github/license/babelouest/orcania?style=plastic) | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/babelouest/orcania?style=plastic)](https://github.com/babelouest/orcania/releases/latest) |
 
 **Other projects**
 
