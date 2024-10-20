@@ -18,9 +18,9 @@
 |---|---|---|
 | **[Taulas](https://github.com/babelouest/taulas)** | Arduino source files for Angharad system devices | ![GitHub](https://img.shields.io/github/license/babelouest/taulas?style=plastic) |
 | **[Huddersfield](https://github.com/babelouest/huddersfield)** | Project packages builder and publisher  | ![GitHub](https://img.shields.io/github/license/babelouest/huddersfield?style=plastic) |
-| **[Rhonabwy](https://github.com/babelouest/rhonabwy)** | JWK, JWKS, JWS, JWE and JWT C library | ![GitHub](https://img.shields.io/github/license/babelouest/rhonabwy?style=plastic) | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/babelouest/rhonabwy?style=plastic)](https://github.com/babelouest/rhonabwy/releases/latest) |
-| **[Iddawc](https://github.com/babelouest/iddawc)** | OAuth2 and OIDC client library | ![GitHub](https://img.shields.io/github/license/babelouest/iddawc?style=plastic) | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/babelouest/iddawc?style=plastic)](https://github.com/babelouest/iddawc/releases/latest) |
-| **[Glewlwyd](https://github.com/babelouest/glewlwyd)** | (Project archived) Experimental Single Sign On server, OAuth2, Openid Connect, MFA | ![GitHub](https://img.shields.io/github/license/babelouest/taliesin?style=plastic) | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/babelouest/glewlwyd?style=plastic)](https://github.com/babelouest/glewlwyd/releases/latest) |
+| **[Rhonabwy](https://github.com/babelouest/rhonabwy)** | JWK, JWKS, JWS, JWE and JWT C library | ![GitHub](https://img.shields.io/github/license/babelouest/rhonabwy?style=plastic) |
+| **[Iddawc](https://github.com/babelouest/iddawc)** | OAuth2 and OIDC client library | ![GitHub](https://img.shields.io/github/license/babelouest/iddawc?style=plastic) |
+| **[Glewlwyd](https://github.com/babelouest/glewlwyd)** | (Project archived) Experimental Single Sign On server, OAuth2, Openid Connect, MFA | ![GitHub](https://img.shields.io/github/license/babelouest/taliesin?style=plastic) |
 
 # Why?
 
