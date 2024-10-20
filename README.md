@@ -17,7 +17,6 @@
 | Project | Descripion | License |
 |---|---|---|
 | **[Taulas](https://github.com/babelouest/taulas)** | Arduino source files for Angharad system devices | ![GitHub](https://img.shields.io/github/license/babelouest/taulas?style=plastic) |
-| **[Huddersfield](https://github.com/babelouest/huddersfield)** | Project packages builder and publisher  | ![GitHub](https://img.shields.io/github/license/babelouest/huddersfield?style=plastic) |
 | **[Rhonabwy](https://github.com/babelouest/rhonabwy)** | JWK, JWKS, JWS, JWE and JWT C library | ![GitHub](https://img.shields.io/github/license/babelouest/rhonabwy?style=plastic) |
 | **[Iddawc](https://github.com/babelouest/iddawc)** | OAuth2 and OIDC client library | ![GitHub](https://img.shields.io/github/license/babelouest/iddawc?style=plastic) |
 | **[Glewlwyd](https://github.com/babelouest/glewlwyd)** | (Project archived) Experimental Single Sign On server, OAuth2, Openid Connect, MFA | ![GitHub](https://img.shields.io/github/license/babelouest/taliesin?style=plastic) |
